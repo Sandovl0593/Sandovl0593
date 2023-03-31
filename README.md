@@ -1,8 +1,11 @@
-# SandovalAdrianUTEC
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2>
 
-<!-- <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨w <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2> -->
+<pre align="center">
 
-<!-- 
+
+</pre>
+
+
 <br/>
 
   <h2 align="center"> Mis estadísticas en Github 📈 </h2>
@@ -16,9 +19,3 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515"/>
     </a>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,github)](https://skillicons.dev)
-
-
-
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ###  -->

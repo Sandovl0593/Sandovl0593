@@ -1,14 +1,30 @@
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2>
+<h2 align="center"> Hola, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2>
 
-<pre align="center">
+<div align="center">
+  <img src="./public/name.gif" alt="name_gif" width="700" height="200"/>
+</div>
 
 
-</pre>
+<!-- <pre align="center">
+</pre> -->
+
+<h3 align="center"><em>Soy estudiante de pregrado de la carrera Ciencia de la Computación de UTEC.</em></h3>
+
+<br>
+<h2 align="center">🔭 Sobre mí 🔭</h2>
+
+- ***Edad:*** 18 años de edad.
+- ***Lugar de residencia:*** Villa el Salvador, provincia de Lima.
+- ***Pensamientos:***
+- **Pasatiempos:** Reflexionar sobre mis pesatiempos
+
+<br>
+<h2 align="center"> 💡 Mis skills 💡 </h2>
 
 
-<br/>
 
-  <h2 align="center"> Mis estadísticas en Github 📈 </h2>
+<br>
+<h2 align="center"> Mis estadísticas en Github 📈 </h2>
   
   <div align="center"> 
      <a href="https://github.com/Sandovl0593">

@@ -1,4 +1,4 @@
-import {promise as fs} from 'fs'
+const fs = require('fs')
 
 const pregraduate_current =  [
   "Algoritmos y Estructuras de Datos", "Cloud Computing", "Perú Temas de la Sociedad Contemporánea",

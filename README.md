@@ -8,14 +8,14 @@
 <!-- <pre align="center">
 </pre> -->
 
-<h3 align="center"><em>Soy estudiante de pregrado de la carrera Ciencia de la Computación de UTEC.</em></h3>
+<h3 align="center"><em>Soy estudiante de pregrado de la carrera de Ciencia de la Computación de UTEC.</em></h3>
 
 <br>
 <h2 align="center">🔭 Sobre mí 🔭</h2>
 
-- ***Edad:*** {{age}} años de edad.
+- ***Edad:*** 19 años de edad.
 - ***Lugar de residencia:*** Villa el Salvador, provincia de Lima.
-- ***Pensamiento:*** 
+- ***Lema:***
 
 $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
@@ -23,6 +23,8 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
+
+
 
 <br>
 <h2 align="center"> 💡 Mis skills 💡 </h2>

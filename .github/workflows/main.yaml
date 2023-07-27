@@ -1,33 +1,28 @@
-name: README build
+name: Update README.md
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
+  
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: "0 */4 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Main branch
-        uses: actions/checkout@v1
-      - name: Setup NodeJs 13.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: '13.x'
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node ./src/index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '16'
+    - run: npm install
+    - run: npm run update-readme
+    - run: |
+        git config user.name Sandovl0593
+        git config user.email adrian.sandoval@utec.edu.pe
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with info pregraduate"
+        git push origin main

@@ -1,8 +1,9 @@
 {
   "name": "sandovl0593",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatic info pregraduate student",
   "main": "index.js",
+  "type": "module",
   "scripts": {
       "dev": "vite",
       "build": "vite build",
@@ -10,10 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "Sandovl0593"
+    "url": "git+https://github.com/Sandovl0593/Sandovl0593.git"
   },
   "author": "Adrian Sandoval",
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "homepage": "https://github.com/Sandovl0593/Sandovl0593#readme",
+  "dependencies": {
+    "rss-parser": "3.12.0"
+  },
   "devDependencies": {
-    "mustache": "4.2.0"
+    "standard": "16.0.4"
   }
 }

@@ -13,9 +13,9 @@
 <br>
 <h2 align="center">🔭 Sobre mí 🔭</h2>
 
-- ***Edad:*** {{age}} años de edad.
+- ***Edad:*** %{{age}}% años de edad.
 - ***Lugar de residencia:*** Villa el Salvador, provincia de Lima.
-- ***Pensamiento:***
+- ***Lema:***
 
 $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
@@ -24,14 +24,7 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
 
-<ul>
-  {{#pregraduate_current}}
-  <li>{{.}}</li>
-  {{/pregraduate_current}}
-</ul>
-
-<hr>
-<h4 align="center"> Tiempo restante: {{days_miss}} </h4>
+%{{courses}}%
 
 <br>
 <h2 align="center"> 💡 Mis skills 💡 </h2>

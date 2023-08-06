@@ -37,7 +37,7 @@ const stringSemester = ((on_semester.start[0] <= currentDay && on_semester.end[0
 (async () => {
 
   const template = await Promise.all([
-    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+    fs.readFile('./src/README.md.tpl')
   ])
 
   const list_courses = `<ul>\n${pregraduate_current.map(elem => `    <li>${elem}</li>`).join('\n')}\n</ul>`;

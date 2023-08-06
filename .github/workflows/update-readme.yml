@@ -28,6 +28,6 @@ jobs:
         npm run update-readme
         git config user.name Sandovl0593
         git config user.email adrian.sandoval@utec.edu.pe
-        git add README.md
+        git add .
         git commit -m "[bot] Update README with info pregraduate"
         git push origin main

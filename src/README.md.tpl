@@ -4,6 +4,10 @@
   <img src="./public/name.gif" alt="name_gif" width="700" height="200"/>
 </div>
 
+%{{date}}%
+
+%{{semester}}%
+
 
 <!-- <pre align="center">
 </pre> -->

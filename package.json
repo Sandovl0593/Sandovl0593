@@ -1,11 +1,11 @@
 {
   "name": "sandovl0593",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Automatic info pregraduate student",
   "main": "index.js",
   "type": "module",
   "scripts": {
-      "update-readme": "node src/index.js"
+    "update-readme": "node src/index.js"
   },
   "repository": {
     "type": "git",

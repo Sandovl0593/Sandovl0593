@@ -2,10 +2,10 @@
   "name": "sandovl0593",
   "version": "1.0.4",
   "description": "Automatic info pregraduate student",
-  "main": "index.js",
+  "main": "index.cjs",
   "type": "module",
   "scripts": {
-    "update-readme": "node src/index.js"
+    "update-readme": "node src/index.cjs"
   },
   "repository": {
     "type": "git",

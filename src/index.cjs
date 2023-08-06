@@ -33,9 +33,6 @@ const stringSemester = ((on_semester.start[0] <= currentDay && on_semester.end[0
                         (on_semester.start[1] <= currentMonth && on_semester.end[1] >= currentMonth))?
                         "En pleno ciclo":"En descanso";
 
-const currentDate = `<h3 align="center">${dayStrings[name_currentDay]} ${currentDay} de ${monthsStrings[currentMonth-1]}</h3>`;
-const in_semester = `<h3 align="center"><em>${stringSemester}</em></h3>`;
-
 
 (async () => {
 
@@ -44,6 +41,8 @@ const in_semester = `<h3 align="center"><em>${stringSemester}</em></h3>`;
   ])
 
   const list_courses = `<ul>\n${pregraduate_current.map(elem => `    <li>${elem}</li>`).join('\n')}\n</ul>`;
+  const currentDate = `<h3 align="center">${dayStrings[name_currentDay]} ${currentDay} de ${monthsStrings[currentMonth-1]}</h3>`;
+  const in_semester = `<h3 align="center"><em>${stringSemester}</em></h3>`;
 
   const newMarkdown = template
     .replace('%{{courses}}%', list_courses)

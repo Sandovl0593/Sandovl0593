@@ -24,8 +24,8 @@ jobs:
     - name: Updating info
       run: |
         node src/index.cjs
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "adrian.sandoval@utec.edu.pe"
+        git config --local user.name "Sandvl0593"
         git add .
         git commit -m "[bot] Update README with info pregraduate"
         git push origin main

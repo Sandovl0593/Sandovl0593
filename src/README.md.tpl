@@ -4,11 +4,6 @@
   <img src="./public/name.gif" alt="name_gif" width="700" height="200"/>
 </div>
 
-%{{date}}%
-
-%{{semester}}%
-
-
 <!-- <pre align="center">
 </pre> -->
 
@@ -27,6 +22,10 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
+
+%{{date}}%
+
+%{{semester}}%
 
 %{{courses}}%
 

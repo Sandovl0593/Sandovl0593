@@ -4,8 +4,7 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
-  
+        
   schedule:
     - cron: "0 0 * * *"
 
@@ -20,14 +19,12 @@ jobs:
     - name: Install Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '19'
 
     - name: Updating info
       run: |
-        npm install
-        npm run update-readme
-        git config user.name Sandovl0593
-        git config user.email adrian.sandoval@utec.edu.pe
-        git add .
+        node src/index.cjs
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git commit -m "[bot] Update README with info pregraduate"
         git push origin main

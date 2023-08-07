@@ -4,24 +4,10 @@
   "description": "Automatic info pregraduate student",
   "main": "index.cjs",
   "type": "module",
-  "scripts": {
-    "update-readme": "node src/index.cjs"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sandovl0593/Sandovl0593.git"
   },
   "author": "Adrian Sandoval",
-  "keywords": [
-    "readme",
-    "github profile",
-    "github readme"
-  ],
-  "homepage": "https://github.com/Sandovl0593/Sandovl0593#readme",
-  "dependencies": {
-    "rss-parser": "3.12.0"
-  },
-  "devDependencies": {
-    "standard": "16.0.4"
-  }
+  "homepage": "https://github.com/Sandovl0593/Sandovl0593#readme"
 }

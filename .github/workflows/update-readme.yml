@@ -26,5 +26,6 @@ jobs:
         node src/index.cjs
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        git add .
         git commit -m "[bot] Update README with info pregraduate"
         git push origin main

@@ -4,11 +4,6 @@
   <img src="./public/name.gif" alt="name_gif" width="700" height="200"/>
 </div>
 
-<h3 align="center">Domingo 0 de Julio</h3>
-
-<h3 align="center"><em>En descanso</em></h3>
-
-
 <!-- <pre align="center">
 </pre> -->
 
@@ -27,6 +22,10 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
+
+<h3 align="center">Jueves 10 de Julio</h3>
+
+<h3 align="center"><em>En descanso</em></h3>
 
 <ul>
     <li>Algoritmos y Estructuras de Datos</li>

@@ -23,7 +23,7 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
 
-<h3 align="center">Sábado 12 de Julio</h3>
+<h3 align="center">Domingo 13 de Julio</h3>
 
 <h3 align="center"><em>En descanso</em></h3>
 

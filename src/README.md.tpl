@@ -20,6 +20,8 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 - **Pasatiempos:** Reflexionar sobre mis pasatiempos
 
+<!--
+
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
 
@@ -28,6 +30,8 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 %{{semester}}%
 
 %{{courses}}%
+
+-->
 
 <br>
 <h2 align="center"> 💡 Mis skills 💡 </h2>

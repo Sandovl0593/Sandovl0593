@@ -5,17 +5,11 @@ const fs = require('fs')
 const age = 19;
 
 const pregraduate_current =  [
-  "Algoritmos y Estructuras de Datos",
-  "Cloud Computing", 
-  "Perú Temas de la Sociedad Contemporánea",
-  "Proy. Interdisciplinario 2",
-  "Base de Datos I", 
-  "Métodos Numéricos",
-  "Teoría de la Computación"
+  
 ];
 
 const on_semester = {
-  start: [15, 8],  end: [12, 12]
+  start: [14, 8],  end: [12, 12]
 };
 
 

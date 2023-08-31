@@ -20,22 +20,20 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 - **Pasatiempos:** Reflexionar sobre mis pasatiempos
 
+<!--
+
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
 
-<h3 align="center">Martes 15 de Julio</h3>
+<h3 align="center">Jueves 31 de Julio</h3>
 
 <h3 align="center"><em>En descanso</em></h3>
 
 <ul>
-    <li>Algoritmos y Estructuras de Datos</li>
-    <li>Cloud Computing</li>
-    <li>Perú Temas de la Sociedad Contemporánea</li>
-    <li>Proy. Interdisciplinario 2</li>
-    <li>Base de Datos I</li>
-    <li>Métodos Numéricos</li>
-    <li>Teoría de la Computación</li>
+
 </ul>
+
+-->
 
 <br>
 <h2 align="center"> 💡 Mis skills 💡 </h2>

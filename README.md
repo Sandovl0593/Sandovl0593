@@ -25,7 +25,7 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
 
-<h3 align="center">Miércoles 18 de Setiembre</h3>
+<h3 align="center">Jueves 19 de Setiembre</h3>
 
 <h3 align="center"><em>En descanso</em></h3>
 

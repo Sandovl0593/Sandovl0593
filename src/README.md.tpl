@@ -9,32 +9,36 @@
 
 <h3 align="center"><em>Soy estudiante de pregrado de la carrera de Ciencia de la Computación de UTEC.</em></h3>
 
-<br>
+%{{ date }}%
+
+<!-- <br>
 <h2 align="center">🔭 Sobre mí 🔭</h2>
 
-- ***Edad:*** %{{age}}% años de edad.
+- ***Edad:*** 19 años de edad.
 - ***Lugar de residencia:*** Villa el Salvador, provincia de Lima.
 - ***Lema:***
 
 $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
-- **Pasatiempos:** Reflexionar sobre mis pasatiempos
+- **Pasatiempos:** Reflexionar sobre mis pasatiempos -->
 
 <!--
 
 <hr>
 <h2 align="center"> Mis cursos actualmente </h2>
 
-%{{date}}%
+<h3 align="center">Jueves 31 de Julio</h3>
 
-%{{semester}}%
+<h3 align="center"><em>En descanso</em></h3>
 
-%{{courses}}%
+<ul>
+
+</ul>
 
 -->
 
-<br>
-<h2 align="center"> 💡 Mis skills 💡 </h2>
+<!-- <br>
+<h2 align="center"> 💡 Mis skills 💡 </h2> -->
 
 
 

@@ -9,7 +9,7 @@
 
 <h3 align="center"><em>Soy estudiante de pregrado de la carrera de Ciencia de la Computación de UTEC.</em></h3>
 
-<br>
+<!-- <br>
 <h2 align="center">🔭 Sobre mí 🔭</h2>
 
 - ***Edad:*** 19 años de edad.
@@ -18,7 +18,7 @@
 
 $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
-- **Pasatiempos:** Reflexionar sobre mis pasatiempos
+- **Pasatiempos:** Reflexionar sobre mis pasatiempos -->
 
 <!--
 
@@ -35,8 +35,8 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 -->
 
-<br>
-<h2 align="center"> 💡 Mis skills 💡 </h2>
+<!-- <br>
+<h2 align="center"> 💡 Mis skills 💡 </h2> -->
 
 
 

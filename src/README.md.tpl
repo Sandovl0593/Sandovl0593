@@ -9,7 +9,7 @@
 
 <h3 align="center"><em>Soy estudiante de pregrado de la carrera de Ciencia de la Computación de UTEC.</em></h3>
 
-%{{ date }}%
+%{{date}}%
 
 <!-- <br>
 <h2 align="center">🔭 Sobre mí 🔭</h2>

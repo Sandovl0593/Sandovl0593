@@ -9,7 +9,7 @@
 
 <h3 align="center"><em>Soy estudiante de pregrado de la carrera de Ciencia de la Computación de UTEC.</em></h3>
 
-<h3 align="center">Hoy es Viernes 5 de Febrero del 2024</h3>
+<h3 align="center">Hoy es Sábado 6 de Febrero del 2024</h3>
 
 <!-- <br>
 <h2 align="center">🔭 Sobre mí 🔭</h2>

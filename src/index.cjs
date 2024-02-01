@@ -34,7 +34,7 @@ const currentYear = new Date().getFullYear();
 
 const currentDate = `<h3 align="center">Hoy es ${
   dayStrings[name_currentDay]
-} ${currentDay} de ${monthsStrings[currentMonth + 1]} del ${currentYear}</h3>`;
+} ${currentDay} de ${monthsStrings[currentMonth]} del ${currentYear}</h3>`;
 
 (async () => {
   fs.readFile("./src/README.md.tpl", "utf8", (err, data) => {

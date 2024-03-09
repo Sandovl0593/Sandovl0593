@@ -1,4 +1,4 @@
-const fs = require("fs");
+/* const fs = require("fs");
 
 // EXECUCION
 
@@ -52,4 +52,4 @@ const currentDate = `<h3 align="center">Hoy es ${
       });
     }
   });
-})();
+})(); */

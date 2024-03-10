@@ -42,13 +42,17 @@ $$Ser \ \ uno \ \ mismo \ \ y \ \ no \ \ confiarse \ \ en \ \ nada$$
 
 <br>
 <h2 align="center"> Mis estadísticas en Github 📈 </h2>
-  
-  <div align="center"> 
-     <a href="https://github.com/Sandovl0593">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandovl0593&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-    </a>
-    <br><br>
-    <a href="https://github.com/Sandovl0593">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515"/>
-    </a>
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandovl0593&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="padding-right: 20px" height="170" alt="stats graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515" height="170" alt="languages graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sandovl0593/Sandovl0593/output/snake.svg" alt="Snake animation" />
+
+###

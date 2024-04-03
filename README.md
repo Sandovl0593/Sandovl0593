@@ -12,7 +12,7 @@
 
 - 🥔 Resident in V.E.S, Lima, Perú
 
-- 👀 Interested in _Software Developing_, _Data Analytics_ and _Artificial Intelligence_ 
+- 👀 Interested in _Software Developnet_, _Data Analytics_ and _Artificial Intelligence_ 
 
 <!-- -  Currently working as ... 🌱-->
 
@@ -54,8 +54,8 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="40" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+  <img width="40" /> -->
   <img src="https://cdn.simpleicons.org/latex/008080" height="30" alt="latex logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -84,8 +84,8 @@
 <!--   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  /> -->
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="40" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="40" /> -->
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />

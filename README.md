@@ -1,29 +1,17 @@
 <h2 align="center"> Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2>
 
 <div align="center">
-  <img src="./public/name.gif" alt="name_gif" width="600" height="175"/>
-</div>
+  <img src="./public/name.gif" alt="name_gif" width="600" height="125"/>
+</div><br>
 
-<!-- <pre align="center">
-</pre> -->
-
-<h3 align="center"><em>Computer Science student at the University of Engineery and Technology</em></h3>
-<br>
-
+- 🏫 Computer Science student at the University of Engineery and Technology
 - 🥔 Resident in V.E.S, Lima, Perú
-
 - 👀 Interested in _Software Developnet_, _Data Analytics_ and _Artificial Intelligence_ 
-
+- 💞️ Collaborating as **_FullStack Developer_** in **'Cachimbo'** Organization.
+- 📧 Contact me: adrian.sandoval@utec.edu.pe or [LinkedIn](https://www.linkedin.com/in/adsandovalio/)
 <!-- -  Currently working as ... 🌱-->
 
-- 💞️ Collaborating as **_FullStack Developer_** in **'Cachimbo'** Organization.
-
-- 📧 Contact me: adrian.sandoval@utec.edu.pe or [LinkedIn](https://www.linkedin.com/in/adsandovalio/)
-
-
-<br>
 <h2 align="center"> 💡 Tech Stack 💡 </h2>
-<br>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
@@ -123,14 +111,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div> -->
 
-
-<br>
 <h2 align="center"> Github Stats 📈 </h2>
-<br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandovl0593&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="padding-right: 20px" height="170" alt="stats graph"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515" height="170" alt="languages graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandovl0593&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="padding-right: 20px" height="140" alt="stats graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515" height="140" alt="languages graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>

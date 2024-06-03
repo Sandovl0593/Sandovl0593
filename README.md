@@ -1,7 +1,7 @@
 <h2 align="center"> Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2>
 
 <div align="center">
-  <img src="./public/name.gif" alt="name_gif" width="600" height="125"/>
+  <img src="./public/name.gif" alt="name_gif" width="520" height="125"/>
 </div><br>
 
 - 🏫 Computer Science student at the University of Engineery and Technology
@@ -29,8 +29,6 @@
   <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="30" alt="nuxtjs logo"  /> -->
 </div>
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="40" />
@@ -49,8 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-<br clear="both">
-
 <div align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="40" />
@@ -62,8 +58,6 @@
   <img width="40" />
   <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
 </div>
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -82,8 +76,6 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
 </div>
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
@@ -114,8 +106,11 @@
 <h2 align="center"> Github Stats 📈 </h2>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandovl0593&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="padding-right: 20px" height="140" alt="stats graph"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515" height="140" alt="languages graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandovl0593&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" style="padding-right: 20px" height="110" alt="stats graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&layout=compact&&text_color=9f9f9f&bg_color=151515" height="110" alt="languages graph"/>
+<!--   <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&order=4" height="150" alt="activity-graph graph"  />
 </div>

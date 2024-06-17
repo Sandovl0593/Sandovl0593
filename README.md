@@ -1,8 +1,8 @@
-<h2 align="center"> Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h2>
+<h3 align="center"> Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h3>
 
 <div align="center">
-  <img src="./public/name.gif" alt="name_gif" width="520" height="125"/>
-</div><br>
+  <img src="./public/name.gif" alt="name_gif" width="420" height="100"/>
+</div><hr>
 
 <ul>
   <li> 💻 <em><strong>Computer Science</strong></em> student at the <strong>University of Engineery and Technology</strong></li>
@@ -18,6 +18,18 @@
   </a> &nbsp;.</li>
 <!--   <li> 🌱 Currently working as ... </li> -->
 </ul>
+
+<h2 align="center"> 📈 Github Stats 📈 </h2>
+
+<div align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Sandovl0593&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="110" alt="streak graph" style="padding-right: 20px" height="110" alt="stats graph"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&theme=react&show_icons=true&hide_border=false&layout=compact" height="110" alt="languages graph"/>
+<!--   <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&border=2" height="150" alt="activity-graph graph"  />
+</div>
 
 <h2 align="center"> 💡 Tech Stack 💡 </h2>
 
@@ -110,15 +122,3 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div> -->
-
-<h2 align="center"> 📈 Github Stats 📈 </h2>
-
-<div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=Sandovl0593&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="110" alt="streak graph" style="padding-right: 20px" height="110" alt="stats graph"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&theme=react&show_icons=true&hide_border=false&layout=compact" height="110" alt="languages graph"/>
-<!--   <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&border=2" height="150" alt="activity-graph graph"  />
-</div>

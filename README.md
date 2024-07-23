@@ -23,10 +23,10 @@
 ## &nbsp;_Github Stats 📈_
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sandovl0593&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="110" alt="streak graph" style="padding-right: 20px" height="110" alt="stats graph"/> &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandovl0593&theme=react&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Sandovl0593&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph" style="padding-right: 20px" alt="stats graph"/> &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandovl0593&theme=react&show_icons=true&hide_border=false&layout=compact" height="150" alt="languages graph"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <!--   <img src="https://github-profile-trophy.vercel.app?username=Sandovl0593&theme=dracula&column=-1&row=1&margin-w=8&margin-h=2&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&border=2" height="130" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandovl0593&radius=16&theme=react&area=true&border=2" height="130" alt="activity-graph graph"  /> -->
 </p>
 
 ## &nbsp;_Tech Stack 💡_

@@ -1,7 +1,5 @@
-<h3 align="center"> Hey, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="./public/Hi.gif" width="30px"></h3>
-
 <div align="center">
-  <img src="./public/name.gif" alt="name_gif" width="420" height="100"/>
+  <img src="./public/name.gif" alt="name_gif" width="440" height="110"/>
 </div>
 
 ## &nbsp;_About Me_

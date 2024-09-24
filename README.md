@@ -7,9 +7,9 @@
   <li> 💻 <em><strong>Computer Science</strong></em> student at the <strong>University of Engineery and Technology</strong></li>
   <li> 🧱 Resident in V.E.S, Lima, Perú</li>
   <li> 👀 Interested in <em>Software Development</em> and <em>Artificial Intelligence</em>.</li>
-  <li> ✨ Collaborating as <em>Frontend Developer</em> in &nbsp; <a href="https://discord.gg/SMX7vqcjZu" target="_blank">
+<!--   <li> ✨ Collaborating as <em>Frontend Developer</em> in &nbsp; <a href="https://discord.gg/SMX7vqcjZu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Cachimbo&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  </a> &nbsp;.</li>
+  </a> &nbsp;.</li> -->
   <li> 🫱🏻 Contact me: &nbsp; <a href="https://www.linkedin.com/in/adsandovalio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a> &nbsp; or &nbsp; <a href="https://www.instagram.com/sandoval__adrian/" target="_blank">

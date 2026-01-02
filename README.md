@@ -1,7 +1,7 @@
 <!-- Professional: estructurado, visual y orientado a reclutadores -->
 <div align="center">
   <img src="./public/name.gif" alt="name_gif" width="260" height="70" style="display:block; margin:auto"/>
-  <p><strong>Computer Science, 9no ciclo • Enfocado en Data Analuysis, ML development y AI Tools</strong></p>
+  <p><strong>Computer Science, 9no ciclo • Enfocado en Data Analysis, ML development y AI Tools</strong></p>
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 ## Sobre mí
-Soy estudiante de Computer Science en la **UTEC**, con interés práctico en el preprocesamiento, análisis y visualización de datos; modelos de Machine Leaning y herramientas de Inteligencia Artificial..
+Soy estudiante de pregrado en Computer Science en **UTEC**, con interés práctico en el procesamiento, análisis y visualización de datos; modelos de Machine Leaning y herramientas de Inteligencia Artificial.
 
 ## Skills & Languages
   <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sandovl0593&theme=react&show_icons=true&hide_border=false&layout=compact" height="160" alt="top langs"/>
